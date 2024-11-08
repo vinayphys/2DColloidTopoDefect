@@ -1,0 +1,1 @@
+Fig.a-e: x-axis should be multiplied by the factor 20.78
