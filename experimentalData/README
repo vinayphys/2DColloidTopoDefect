@@ -1,5 +1,5 @@
 The file data_1000.txt.tar.gz is a tar file containing the experimental data used in the study "Experimental identification of topological defects in 2D colloidal glass".
 
-The file may be extracted using the command "tar -xvf data_1000.txt.tar.gz". This should result into a single ASCI file data_1000.txt (roughly 153.5 MB in size).
+The file may be extracted using the command "tar -xvf data_1000.txt.tar.gz". This should result into a single ASCI file data_1000.txt (roughly 59 MB in size).
 
 The file contains four columns. First and second columns represent the positions (x and y-coordinates) of the colloidal particles in pixels. A factor of (1158/1392)*1e-6 should be multiplied to convert the coordinates from pixel to micron. Third column represents the time at which the coordinates are recorded. Fourth column represents the bigger colloidal particle if it is +1 and the smaller colloidal particle if -1.  
