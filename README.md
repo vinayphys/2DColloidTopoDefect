@@ -4,4 +4,4 @@ This repository contains the dataset used in the study "Experimental identificat
 
 Source_Data: contains the dataset used in different plots of the paper
 
-Experimental_Data: contains the 1000 configurations, obtained after processing the microscopy data of the 2D colloidal system
+Experimental_Data: contains the 1000 configurations, obtained after processing the microscopy data of the 2D colloidal system. Check the README file inside the directory for further details.
