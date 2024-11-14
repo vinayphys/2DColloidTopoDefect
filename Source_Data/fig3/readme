@@ -1,0 +1,5 @@
+"configuration.txt" - particle configurations: first two columns are x and y-coordinates of the particles in pixels, third column represents particle type (+1 bigger particles and -1 smaller particles) 
+"omega.txt" - Eigenfrequencies of the Hessian matrix constructed for positions in configuration.txt
+"con_{a-d}.txt" - Configurations with vector field: first two columns are coarse-grained lattice positions, third and fourth columns are the corresponding x and y-components of the eigenvector,  fifth column represents theta 
+"defp_{a-d}.txt" - Locations of vortex
+"defn_{a-d}.txt" - Locations of anti-vortex
