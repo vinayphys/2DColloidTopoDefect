@@ -2,6 +2,6 @@ The file data_1000.txt.tar.gz is a tar file containing the colloidal system conf
 
 The file may be extracted using the command "tar -xvf data_1000.txt.tar.gz". This should result into a single ASCI file data_1000.txt (roughly 59 MB in size).
 
-The file contains four columns. First and second columns represent the positions (x and y-coordinates) of the colloidal particles in pixels. A factor of (1158/1392)*1e-6 should be multiplied to convert the coordinates from pixel to micron. Third column represents the time at which the coordinates are recorded. Fourth column represents the bigger colloidal particle if it is +1 and the smaller colloidal particle if -1.
+The file contains four columns. First and second columns represent the positions (x and y-coordinates) of the colloidal particles in pixels. A factor of 0.83 should be multiplied to convert the coordinates from pixel to micron. Third column represents the time at which the coordinates are recorded. Fourth column represents the bigger colloidal particle if it is +1 and the smaller colloidal particle if -1.
 
 There are 1000 configurations sampled at diffrent times, indicated by the third column. Each configuration may contain slightly different number of atoms, but the number is close to 2300.
